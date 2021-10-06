@@ -1,0 +1,6 @@
+H:\Visual Studio 2019\Projects\Pit1240\Pit1240\bin\Debug\Pit1240.exe.config
+H:\Visual Studio 2019\Projects\Pit1240\Pit1240\bin\Debug\Pit1240.exe
+H:\Visual Studio 2019\Projects\Pit1240\Pit1240\bin\Debug\Pit1240.pdb
+H:\Visual Studio 2019\Projects\Pit1240\Pit1240\obj\Debug\Pit1240.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\Pit1240\Pit1240\obj\Debug\Pit1240.exe
+H:\Visual Studio 2019\Projects\Pit1240\Pit1240\obj\Debug\Pit1240.pdb
